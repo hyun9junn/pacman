@@ -1,0 +1,39 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 중간 디렉터리(x64\Debug\)에 다른 프로젝트(Project3.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  CollisionDetector.cpp
+C:\Users\khjmo\OneDrive\바탕 화면\24-2 과제\프방\과제\Final_project\Pacman_Final\Project3\include\FreeImage.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'CollisionDetector.cpp'을(를) 컴파일하는 중)
+  
+  CollisionHandler.cpp
+C:\Users\khjmo\OneDrive\바탕 화면\24-2 과제\프방\과제\Final_project\Pacman_Final\Project3\include\FreeImage.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'CollisionHandler.cpp'을(를) 컴파일하는 중)
+  
+  Ghost.cpp
+C:\Users\khjmo\OneDrive\바탕 화면\24-2 과제\프방\과제\Final_project\Pacman_Final\Project3\include\FreeImage.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'Ghost.cpp'을(를) 컴파일하는 중)
+  
+  Light.cpp
+  Map.cpp
+  Material.cpp
+  PacMan.cpp
+C:\Users\khjmo\OneDrive\바탕 화면\24-2 과제\프방\과제\Final_project\Pacman_Final\Project3\include\FreeImage.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'PacMan.cpp'을(를) 컴파일하는 중)
+  
+  Shape3D.cpp
+  source.cpp
+C:\Users\khjmo\OneDrive\바탕 화면\24-2 과제\프방\과제\Final_project\Pacman_Final\Project3\include\FreeImage.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'source.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\khjmo\OneDrive\바탕 화면\24-2 과제\프방\과제\Final_project\Pacman_Final\Project3\source.cpp(364,22): warning C4305: '인수': 'double'에서 'const float'(으)로 잘립니다.
+C:\Users\khjmo\OneDrive\바탕 화면\24-2 과제\프방\과제\Final_project\Pacman_Final\Project3\source.cpp(367,22): warning C4305: '인수': 'double'에서 'const float'(으)로 잘립니다.
+  Spell.cpp
+  Sphere.cpp
+C:\Users\khjmo\OneDrive\바탕 화면\24-2 과제\프방\과제\Final_project\Pacman_Final\Project3\Sphere.cpp(52,56): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\khjmo\OneDrive\바탕 화면\24-2 과제\프방\과제\Final_project\Pacman_Final\Project3\Sphere.cpp(53,58): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  TextureHandler.cpp
+C:\Users\khjmo\OneDrive\바탕 화면\24-2 과제\프방\과제\Final_project\Pacman_Final\Project3\include\FreeImage.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'TextureHandler.cpp'을(를) 컴파일하는 중)
+  
+  Vector3f.cpp
+  Vector4f.cpp
+  코드를 생성하고 있습니다...
+  Project3.vcxproj -> C:\Users\khjmo\OneDrive\바탕 화면\24-2 과제\프방\과제\Final_project\Pacman_Final\x64\Debug\OpenGL.exe
