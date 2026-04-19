@@ -3,7 +3,7 @@
 A fully playable Pac-Man game clone developed in C++ as a team project at Seoul National University.
 
 ## Demo
-![demo](demo.gif)
+![demo](Pacman.gif)
 
 ## Features
 
